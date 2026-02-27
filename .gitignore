@@ -10,6 +10,9 @@ lerna-debug.log*
 node_modules
 dist
 dist-ssr
+k-frontend/node_modules/
+k-frontend/dist/
+k-frontend/.DS_Store
 *.local
 
 # Editor directories and files
